@@ -1,4 +1,4 @@
-package pl.sauermann.springboot.server.propertymanagmentservice;
+package pl.sauermann.springboot.server.propertymanagementservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class PropertyManagmentServiceApplicationTests {
+public class PropertyManagementServiceApplicationTests {
 
     @Test
     public void contextLoads() {

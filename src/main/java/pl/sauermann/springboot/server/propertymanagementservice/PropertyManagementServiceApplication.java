@@ -1,13 +1,13 @@
-package pl.sauermann.springboot.server.propertymanagmentservice;
+package pl.sauermann.springboot.server.propertymanagementservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PropertyManagmentServiceApplication {
+public class PropertyManagementServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PropertyManagmentServiceApplication.class, args);
+        SpringApplication.run(PropertyManagementServiceApplication.class, args);
     }
 
 }
