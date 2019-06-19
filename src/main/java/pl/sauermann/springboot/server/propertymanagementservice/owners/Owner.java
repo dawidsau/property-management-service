@@ -1,7 +1,10 @@
-package pl.sauermann.springboot.server.propertymanagementservice.model;
+package pl.sauermann.springboot.server.propertymanagementservice.owners;
 
 import lombok.Data;
+import pl.sauermann.springboot.server.propertymanagementservice.Address;
 import pl.sauermann.springboot.server.propertymanagementservice.BaseEntity;
+import pl.sauermann.springboot.server.propertymanagementservice.communities.Community;
+import pl.sauermann.springboot.server.propertymanagementservice.estate.Estate;
 
 import javax.persistence.*;
 import java.util.Set;
@@ -9,7 +12,7 @@ import java.util.Set;
 @Data
 @Entity
 @Table(name = "owners")
-public class Owner {
+public class Owner extends BaseEntity {
 
     private String firstName;
     private String lastName;

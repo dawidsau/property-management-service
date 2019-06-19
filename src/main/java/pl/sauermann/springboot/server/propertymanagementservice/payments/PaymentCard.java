@@ -1,7 +1,9 @@
-package pl.sauermann.springboot.server.propertymanagementservice.model;
+package pl.sauermann.springboot.server.propertymanagementservice.payments;
 
 import lombok.Data;
 import pl.sauermann.springboot.server.propertymanagementservice.BaseEntity;
+import pl.sauermann.springboot.server.propertymanagementservice.communities.Community;
+import pl.sauermann.springboot.server.propertymanagementservice.estate.Estate;
 
 import javax.persistence.*;
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package pl.sauermann.springboot.server.propertymanagementservice.model;
+package pl.sauermann.springboot.server.propertymanagementservice.payments;
 
 import lombok.Data;
 import pl.sauermann.springboot.server.propertymanagementservice.BaseEntity;
