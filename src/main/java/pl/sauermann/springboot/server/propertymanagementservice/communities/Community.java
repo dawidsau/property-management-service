@@ -1,9 +1,9 @@
 package pl.sauermann.springboot.server.propertymanagementservice.communities;
 
 import lombok.Data;
-import pl.sauermann.springboot.server.propertymanagementservice.Address;
+import pl.sauermann.springboot.server.propertymanagementservice.Addresses.Address;
 import pl.sauermann.springboot.server.propertymanagementservice.BaseEntity;
-import pl.sauermann.springboot.server.propertymanagementservice.estate.Estate;
+import pl.sauermann.springboot.server.propertymanagementservice.estates.Estate;
 import pl.sauermann.springboot.server.propertymanagementservice.payments.PaymentCard;
 
 import javax.persistence.*;

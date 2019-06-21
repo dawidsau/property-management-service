@@ -1,10 +1,10 @@
 package pl.sauermann.springboot.server.propertymanagementservice.owners;
 
 import lombok.Data;
-import pl.sauermann.springboot.server.propertymanagementservice.Address;
+import pl.sauermann.springboot.server.propertymanagementservice.Addresses.Address;
 import pl.sauermann.springboot.server.propertymanagementservice.BaseEntity;
 import pl.sauermann.springboot.server.propertymanagementservice.communities.Community;
-import pl.sauermann.springboot.server.propertymanagementservice.estate.Estate;
+import pl.sauermann.springboot.server.propertymanagementservice.estates.Estate;
 
 import javax.persistence.*;
 import java.util.Set;

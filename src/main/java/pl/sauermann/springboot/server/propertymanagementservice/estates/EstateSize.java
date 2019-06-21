@@ -1,4 +1,4 @@
-package pl.sauermann.springboot.server.propertymanagementservice.estate;
+package pl.sauermann.springboot.server.propertymanagementservice.estates;
 
 import lombok.Data;
 

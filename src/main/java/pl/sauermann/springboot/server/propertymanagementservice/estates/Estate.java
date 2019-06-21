@@ -1,7 +1,7 @@
-package pl.sauermann.springboot.server.propertymanagementservice.estate;
+package pl.sauermann.springboot.server.propertymanagementservice.estates;
 
 import lombok.Data;
-import pl.sauermann.springboot.server.propertymanagementservice.Address;
+import pl.sauermann.springboot.server.propertymanagementservice.Addresses.Address;
 import pl.sauermann.springboot.server.propertymanagementservice.BaseEntity;
 import pl.sauermann.springboot.server.propertymanagementservice.communities.Community;
 import pl.sauermann.springboot.server.propertymanagementservice.owners.Owner;
