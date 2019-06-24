@@ -1,4 +1,4 @@
-package pl.sauermann.springboot.server.propertymanagementservice.Addresses;
+package pl.sauermann.springboot.server.propertymanagementservice.addresses;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

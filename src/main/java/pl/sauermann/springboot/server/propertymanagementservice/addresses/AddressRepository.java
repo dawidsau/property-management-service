@@ -1,4 +1,4 @@
-package pl.sauermann.springboot.server.propertymanagementservice.Addresses;
+package pl.sauermann.springboot.server.propertymanagementservice.addresses;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

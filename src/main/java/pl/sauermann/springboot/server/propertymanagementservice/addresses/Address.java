@@ -1,4 +1,4 @@
-package pl.sauermann.springboot.server.propertymanagementservice.Addresses;
+package pl.sauermann.springboot.server.propertymanagementservice.addresses;
 
 import lombok.Data;
 import pl.sauermann.springboot.server.propertymanagementservice.BaseEntity;

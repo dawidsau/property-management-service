@@ -1,7 +1,7 @@
 package pl.sauermann.springboot.server.propertymanagementservice.owners;
 
 import lombok.Data;
-import pl.sauermann.springboot.server.propertymanagementservice.Addresses.AddressDTO;
+import pl.sauermann.springboot.server.propertymanagementservice.addresses.AddressDTO;
 import pl.sauermann.springboot.server.propertymanagementservice.communities.CommunityDTO;
 import pl.sauermann.springboot.server.propertymanagementservice.estates.EstateDTO;
 
